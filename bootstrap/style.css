@@ -1,0 +1,11 @@
+#section2 {
+  margin-top: 5%;
+}
+@media screen (max-width: 740px) {
+  #section2 {
+    margin-top: 0;
+  }
+  #contact {
+    height: 140vh;
+  }
+}
